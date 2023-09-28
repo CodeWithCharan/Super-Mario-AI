@@ -1,5 +1,5 @@
 # Super Mario AI
-![Mario_Thumbnail](https://github.com/CodeWithCharan/Super-Mario-AI/assets/106027109/8210a975-ecaf-406b-bc28-3a906ee443fd)
+![Mario_Thumbnail](https://github.com/CodeWithCharan/Super-Mario-AI/assets/106027109/768f0e30-c708-458e-8dcb-73684c62f30a)
 
 
 ## Overview
