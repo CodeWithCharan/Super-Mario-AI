@@ -1,6 +1,5 @@
-# Super Mario AI
-![Mario_Thumbnail](https://github.com/CodeWithCharan/Super-Mario-AI/assets/106027109/768f0e30-c708-458e-8dcb-73684c62f30a)
-
+# Reinforcement Learning for Mario Game
+![Mario_Thumbnail](https://github.com/CodeWithCharan/Super-Mario-AI/assets/106027109/5a0cdf8a-c826-4921-a865-6940d0b113b0)
 
 ## Overview
 
